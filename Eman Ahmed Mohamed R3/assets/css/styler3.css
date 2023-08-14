@@ -1,0 +1,64 @@
+/*screen 1*/
+body {
+    line-height: 10px;
+}
+.welcome {
+    margin-top: 12.5rem;
+}
+.welcome h1{
+    font-size: 65px;
+}
+.welcome a{
+    margin-top: 50px;
+}
+/*screen 2*/
+.services {
+    margin-top: 12.5rem;
+}
+
+.services h2 {
+    margin-bottom: 1rem;
+    text-transform: uppercase;
+}
+
+.services .row text-center{
+    margin-left: 5px;
+}
+.services .service-text {
+    margin-top: 5px;
+    left: 50%;
+    color: black;
+    
+}
+.circle {
+    margin:20px 0 0 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}
+
+.circle-lg {
+    width: 70px;
+    height: 70px;
+}
+.circle i {
+    font-size: 30px;
+    color: white
+}
+/*screen 3*/
+.portfolio h2{
+    margin-top: 150px;
+}
+/*screen 4*/
+.team{
+    margin-top: 150px;
+}
+.team .rounded-circle{
+    margin-left: 100px;
+}
+.team .card-title{
+    color:darkgrey;
+}
